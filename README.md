@@ -1,5 +1,5 @@
-# Airship Template Game
-Use this repo as a starting point for your future Airship game!
+# Airship 101
 
-## Getting started
-[Check out our docs](https://docs.airship.gg/) for information on getting started and how to develop on Airship.
+This repository contains the code and assets for the Airship 101 tutorial series by Vorlias
+
+Each tutorial will be located in [Tutorials](./Assets/Tutorials), with their respective scenes, code and assets.
